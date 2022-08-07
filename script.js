@@ -303,13 +303,11 @@ slider();
 
 
 
-
-
-
-
 // 
-
-// FIRED AFTER THE HTML AND JS HAVE BEEN LOADED WITHOUT EXTERNAL RESOURCES SUCH AS IMAGES
+// 
+// 
+// 
+// AN EVENT FIRED AFTER THE HTML AND JS HAVE BEEN LOADED WITHOUT EXTERNAL RESOURCES SUCH AS IMAGES
 document.addEventListener('DOMContentLoaded', console.log('loaded!!!'))
 
 
